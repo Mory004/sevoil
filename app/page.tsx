@@ -7,7 +7,7 @@ export default function Home() {
         Salut Je suis un nouveau sur Next.js!
       </h1>
       <p className="mt-4 text-lg text-gray-600 dark:text-gray-400">
-        Je viens darriver merci.
+        Je viens darriver merci de maccueillir dans la communauté Next.js!
       </p>
       <Image
         src="/nextjs-logo.png"
