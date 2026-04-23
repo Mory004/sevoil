@@ -10,7 +10,7 @@ export default function Home() {
         Je viens darriver merci de maccueillir dans la communauté Next.js!
       </p>
       <Image
-        src="/nextjs-logo.png"
+        src="/armoirie.png.webp"
         alt="Next.js Logo"
         width={200}
         height={200}
@@ -19,3 +19,4 @@ export default function Home() {
     </div>
   );
 }
+
